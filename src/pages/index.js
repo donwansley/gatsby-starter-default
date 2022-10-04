@@ -14,10 +14,12 @@ const links = [
       "Get your Ebooks and learn Health and Wealth with NFT's. Learn the New Money Ecosystem. Generate Royalties. Own your Masters.",
   },
   {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+    text: "    text: "Ebooks: Intro to Plant-Based Nutrition ",
+",
+    url: "    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/22048735142500977197523081673521284235673679034490672780382132104658738479204/",
+",
     description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
+      "An Introduction into the Plant-Based Lifestyle featuring transitional foods that you know and love. We just make them Plant-Based for you!",
   },
   {
     text: "Plugin Library",
