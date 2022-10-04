@@ -8,10 +8,10 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial",
+    text: "NFT:Ebooks",
+    url: "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/22048735142500977197523081673521284235673679034490672780382132104658738479204/",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "Get your Ebooks and learn Health and Wealth with NFT's. Learn the New Money Ecosystem. Generate Royalties. Own your Masters.",
   },
   {
     text: "Examples",
